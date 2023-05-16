@@ -1,0 +1,10 @@
+# train, val and test data as 1) directory: path/image/, 2) file: path/image.txt, or 3) list: [path1/image/, path2/image/]
+train: /home/jovyan/data/lightning/LiviaMurankova/DATA_SPLIT_FOR_YOLO10/train_dataset10.txt
+val: /home/jovyan/data/lightning/LiviaMurankova/DATA_SPLIT_FOR_YOLO10/valid_dataset10.txt
+test: /home/jovyan/data/lightning/LiviaMurankova/DATA_SPLIT_FOR_YOLO10/test_dataset10.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['event']
