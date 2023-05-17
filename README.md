@@ -8,6 +8,6 @@ Transient luminous events (TLEs) are short-lived, electrically induced forms of 
 > convolutional neural network modeling in _YOLOv5_ and _YOLOv8_ versions :rocket:, 
 > final _visualizations_ of the detected images :bar_chart:.
 
-<img src="https://github.com/lm367yn/TLE_Object_Detection/assets/133745636/c6d02a00-b731-433b-ac5d-eefc6f69cac1" width="100" height="100">
+<img src="https://github.com/lm367yn/TLE_Object_Detection/assets/133745636/c6d02a00-b731-433b-ac5d-eefc6f69cac1" width="427" height="320">
 
 
